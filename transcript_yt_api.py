@@ -32,7 +32,7 @@ def get_youtube_transcript(api_key, video_id):
 
 if __name__ == "__main__":
     # Replace 'YOUR_YOUTUBE_API_KEY' with your actual YouTube API key
-    api_key = 'AIzaSyCZ_Voq3x13rC3JgQZSHnw9EgCYn-htcb0'
+    api_key = ''
 
     # Replace 'VIDEO_ID' with the actual YouTube video ID
     video_id = 'JL4OoKJyNrc'
